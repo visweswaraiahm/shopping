@@ -1,4 +1,5 @@
 clothes
 shoes
 perfumes
+spectacles
 etc
