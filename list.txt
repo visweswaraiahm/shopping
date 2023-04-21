@@ -1,0 +1,4 @@
+clothes
+shoes
+perfumes
+etc
